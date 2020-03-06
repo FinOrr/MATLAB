@@ -1,1 +1,1 @@
-
+Includes images of how the filter coefficients were calculated.
